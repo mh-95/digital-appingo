@@ -1,0 +1,101 @@
+{
+  "DCell": {
+    "Ads": 
+      {
+        "AdsCompany": "admob",
+
+        "AdmobBanner": "ca-app-pub-7161646055510540/3271701378",
+        "AdmobInterstitial": "ca-app-pub-7161646055510540/1328064319",
+
+        "FbBanner": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "FbInterstitial": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+		
+        "CpaImage": true,
+        "CpaImageImg" : "https://media.giphy.com/media/9E7kUhnT9eDok/giphy.gif",
+        "CpaURL" : "https://www.google.com"
+		
+      },
+
+    "class": [
+      {
+        "titre": "Dark Meadow: The Pact",
+        "photo":  "https://cdn.pixabay.com/photo/2020/10/22/06/22/ump-5675038_960_720.jpg",
+        "color": "#7A002A",
+        "txt_size": "18",
+        "link": true,
+		"link_titre": "Get Coins",
+		"setLink": "https://www.google.com",
+        "photo_link": "https://www.google.com",
+        "txt": "\n\n⚡ If you are one of many new players taking their first steps in the unforgiving universe of Battle Royale, we invite you to discover our guide which will allow you to be more efficient on the field and will certainly serve you to win your games and finish in the TOP 1. \n\n⚡ Hiding out inbuildings might let you survive and be on the Top 10, but this way you will not get yourself improved. \n\n⚡ The trouble is that PUBG is surprisingly complex. There are a lot of details to know and learn along the way to be a pro player. Fortunately, we have spent some enough time on the game to find some Battlegrounds advanced tactics, tips, tricks, and strategies to help you on your mission for a chicken dinner.\n\n⚡  Please support us by a 5 stars rating and a beautiful comment ❤ ",
+        "ifNat": false,
+		"ground": "#8BC34A"
+      },
+      {
+        "titre": "The Old 2",
+        "photo": "https://usercontent1.hubstatic.com/8037694.jpg",
+		"color": "#7A002A",
+        "txt_size": "18",
+        "link": false,
+		"link_titre": "",
+		"setLink": "",
+        "photo_link": "",
+        "txt": "\n\n⚡ Practice makes you perfect The best way to improve aiming is practising as many weapons as you canto familiarize yourself with them. Try to hit the moving targets. \n\n⚡ place your crosshair properly and focus very necessary tips while aiming; it's a time of focus ; it might seem hard at the beginning but after one week or two of practicing it, you will notcie a big difference and how pro you really are ! ",
+        "ifNat": false,
+		"ground": "#8BC34A"
+      },
+      {
+        "titre": "Call of Cthulhu: Wasted Land ",
+        "photo": "https://usercontent1.hubstatic.com/6961608.jpg",
+		"color": "#FFFFFF",
+        "txt_size": "25",
+        "link": false,
+		"link_titre": "",
+		"setLink": "",
+        "photo_link": "",
+        "txt": "Dark Meadow : The Pact",
+        "ifNat": false,
+		"ground": "#00FF00"
+      },
+      {
+        "titre": "Dead Space Android",
+        "photo": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
+		"color": "#FFFFFF",
+        "txt_size": "25",
+        "link": false,
+		"link_titre": "",
+		"setLink": "",
+        "photo_link": "",
+        "txt": "Dark Meadow : The Pact",
+        "ifNat": false,
+		"ground": "#00FF00"
+      },
+      {
+        "titre": "Bloody Mary",
+        "photo": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
+		"color": "#FFFFFF",
+        "txt_size": "25",
+        "link": false,
+		"link_titre": "",
+		"setLink": "",
+        "photo_link": "",
+        "txt": "Dark Meadow : The Pact",
+        "ifNat": false,
+		"ground": "#00FF00"
+      },
+      {
+        "titre": "Twisted Lands: Shadow Town",
+        "photo": "https://usercontent1.hubstatic.com/6961620.jpg",
+		"color": "#FFFFFF",
+        "txt_size": "25",
+        "link": false,
+		"link_titre": "",
+		"setLink": "",
+        "photo_link": "",
+        "txt": "Dark Meadow : The Pact",
+        "ifNat": false,
+		"ground": "#00FF00"
+      }
+    ]
+
+  }
+}
