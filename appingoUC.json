@@ -11,14 +11,14 @@
         "FbInterstitial": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
 		
         "CpaImage": true,
-        "CpaImageImg" : "https://media.giphy.com/media/9E7kUhnT9eDok/giphy.gif",
-        "CpaURL" : "https://www.google.com"
+        "CpaImageImg" : "https://media.giphy.com/media/QfKOejfdCT3USc41DO/giphy.gif",
+        "CpaURL" : "https://viral782.com/list/435514"
 		
       },
 
     "class": [
       {
-        "titre": "Dark Meadow: The Pact",
+        "titre": "The Battleground Guide 2022",
         "photo":  "https://cdn.pixabay.com/photo/2020/10/22/06/22/ump-5675038_960_720.jpg",
         "color": "#7A002A",
         "txt_size": "18",
@@ -30,9 +30,23 @@
         "ifNat": false,
 		"ground": "#8BC34A"
       },
+	     {
+        "titre": "UC & RP",
+        "photo": "https://cdn.pixabay.com/photo/2021/08/24/15/00/pubg-mobile-6570917_960_720.jpg",
+		"color": "#7A002A",
+        "txt_size": "18",
+        "link": false,
+		"link_titre": "Get UC",
+		"setLink": "https://viral782.com/list/435514",
+        "photo_link": "https://viral782.com/list/435514",
+        "txt": "\n\n⚡ Taking up online surveys & completing offers is one of the easiest ways to get Free UC & RP for free. We make a giveaway every week for 20 to 30 of the top users with the most points, you can get points by completing offers. \n\n⚡ We reward users for completing online surveys with Google PlayStore credits, which can further be used to purchase UC & RP!",
+  
+        "ifNat": false,
+		"ground": "#8BC34A"
+      },
       {
-        "titre": "The Old 2",
-        "photo": "https://usercontent1.hubstatic.com/8037694.jpg",
+        "titre": "Tips & Tricks",
+        "photo": "https://www.maxpixel.net/static/photo/1x/Pubg-Mobile-Pubg-Mascot-Mascot-Pubg-Logo-4800858.png",
 		"color": "#7A002A",
         "txt_size": "18",
         "link": false,
@@ -44,56 +58,60 @@
 		"ground": "#8BC34A"
       },
       {
-        "titre": "Call of Cthulhu: Wasted Land ",
-        "photo": "https://usercontent1.hubstatic.com/6961608.jpg",
-		"color": "#FFFFFF",
-        "txt_size": "25",
+        "titre": "Tips & Tricks 2",
+        "photo": "https://cdn.pixabay.com/photo/2020/11/10/15/51/bear-5730216_960_720.png",
+		"color": "#7A002A",
+        "txt_size": "18",
         "link": false,
 		"link_titre": "",
 		"setLink": "",
         "photo_link": "",
-        "txt": "Dark Meadow : The Pact",
+        "txt": "\n\n⚡ Use windows, doors,Jumps : Can be use for many tricks to outsmart your ennemies,you can jump from widows and don't let your ennemy get your postion, you can jump from a house to another one . \n\n⚡ Don’t shoot unless you’re confident you’ll get a kill A very important tip while playing PUBG. Specially on the match end, while the zone is smaller so you don't know where the ennelies are, once you start shooting you have to get it done . \n ",
+
         "ifNat": false,
-		"ground": "#00FF00"
+		"ground": "#8BC34A"
       },
       {
-        "titre": "Dead Space Android",
-        "photo": "https://usercontent2.hubstatic.com/6961611_f520.jpg",
-		"color": "#FFFFFF",
-        "txt_size": "25",
+        "titre": "Moving Targets",
+        "photo": "https://www.maxpixel.net/static/photo/1x/Gun-Counter-Strike-Computer-Game-Pubg-Tommy-3906571.png",
+		"color": "#7A002A",
+        "txt_size": "18",
         "link": false,
 		"link_titre": "",
 		"setLink": "",
         "photo_link": "",
-        "txt": "Dark Meadow : The Pact",
+        "txt": "\n\n⚡ Moving Targets \n - 100m away... imagine there's one person just ahead of them and shoot this position. \n - 200m away... lead your target by two imaginary people. \n\n⚡ Your first shoots might not hit the target, but they are giving you an idea about distance and where to next adapt your gun. \n ",
+    
         "ifNat": false,
-		"ground": "#00FF00"
+		"ground": "#8BC34A"
       },
       {
-        "titre": "Bloody Mary",
-        "photo": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
-		"color": "#FFFFFF",
-        "txt_size": "25",
+        "titre": "Pro Strategies",
+        "photo": "https://www.maxpixel.net/static/photo/1x/Pubg-Gun-Game-Ump-Fortnite-Ammunition-Ump9-5675038.jpg",
+		"color": "#7A002A",
+        "txt_size": "18",
         "link": false,
 		"link_titre": "",
 		"setLink": "",
         "photo_link": "",
-        "txt": "Dark Meadow : The Pact",
+        "txt": "\n\n⚡ Play in the edge of the circle (25 ALIVE) This is a good tactic and a great choice; specially when your teammates are dead; imagine you're on your own surrounded by many teams; Do you think it's a good idea ? absolutely not ; so you better have to stay at the edges of the zone until you know everyone's place ,and this could be you secret key to many wins. \n\n⚡ ALWAYS take a level three helmet......but sometimes leave a level three vest While comparing helmets; the level 3 helmet is always the great choice even if it's damaged; Unlike the vests; a damaged level 3 vest does not anymore provide you any safety while it's fully damaged. ",
+     
         "ifNat": false,
-		"ground": "#00FF00"
+		"ground": "#8BC34A"
       },
       {
-        "titre": "Twisted Lands: Shadow Town",
-        "photo": "https://usercontent1.hubstatic.com/6961620.jpg",
-		"color": "#FFFFFF",
-        "txt_size": "25",
+        "titre": "Weapons & Aiming",
+        "photo": "https://www.maxpixel.net/static/photo/1x/Mascot-Pubg-Character-Pubg-Mobile-Character-5379783.png",
+		"color": "#7A002A",
+        "txt_size": "18",
         "link": false,
 		"link_titre": "",
 		"setLink": "",
         "photo_link": "",
-        "txt": "Dark Meadow : The Pact",
+        "txt": "\n\n⚡ Aim Over Long Distances \n The distance travelled by each gun's bullet is different (muzzle speeds). For exampl SMG's bullets can go so far, unlike snipers or assault riffles ; So the right choice is to choise a sniper or an assault riffle for long distace; assault riffles ar really good in long distances while they're on Single mode, using a higher scope as x4 or x6 \n This is how to use the 4X scope at different ranges. ",
+    
         "ifNat": false,
-		"ground": "#00FF00"
+		"ground":"#8BC34A"
       }
     ]
 
